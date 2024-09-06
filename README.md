@@ -1,5 +1,7 @@
 # Therapist and Child Detection and Tracking
 
+Due to the size of the output videos (3.3 GB), it can be accessed via this link: [**Output Videos**](https://drive.google.com/file/d/17VQvJTPUrA2F_uOQXL68dlkvDdtefKet/view)
+
 ## Assignment Description
 
 This project aims to develop a detection and tracking pipeline specifically for identifying children and therapists in videos. The goal is to assign unique IDs to each person, track them throughout the video, and handle re-entries, occlusions, and new entries.
