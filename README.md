@@ -226,8 +226,5 @@ Here are sample results from both models:
 
 ---
 
-This README provides comprehensive instructions to reproduce the results, as well as suggestions for future improvements. The results section will display the performance of both YOLO models used.#   T h e r a p i s t - a n d - C h i l d - D e t e c t i o n - a n d - T r a c k i n g 
- 
- #   P e r s o n T r a c k e r 
- 
+This README provides comprehensive instructions to reproduce the results, as well as suggestions for future improvements. The results section will display the performance of both YOLO models used.
  
